@@ -1,0 +1,30 @@
+_repo: The-Training-of-a-Public-Speaker_18277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: Title; Contents; Preface; Rhetoric And Eloquence; The Exordium Or Introduction;
+  The Narration; Division And Argument; The Peroration; Passion And Persuasion; The
+  Study Of Words; Elegance And Grace; Composition And Style; Copiousness Of Words;
+  Knowledge And Selfconfidence; Conclusion.
+gutenberg_issued: '2006-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18277'
+  lccn: '20007373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oratory'
+- !lcc 'PN'
+title: The Training of a Public Speaker
+url: http://www.gutenberg.org/ebooks/18277
